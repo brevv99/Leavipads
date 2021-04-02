@@ -120,7 +120,7 @@ class Notepad:
         showinfo("Notepad - Info" ,"No Update Available")
 
     def __showAbout(self):
-        showinfo("Notepad - Info","Notepad Beta Version 1.0.2 Leavi Inc. Copyright By Leavi.")
+        showinfo("Notepad - Info","Notepad Beta Version 1.0 Brevv Inc. Copyright By Brevv.")
 
     def __showAboutView(self):
         showerror("Notepad - Error","You do not have permission to access this menu. Contact your network administrator to request access.")
